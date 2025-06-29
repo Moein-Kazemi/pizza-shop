@@ -14,12 +14,12 @@ Currently, two official plugins are available:
 
 ## Features
 
-- users don't nees to login just input their names and using the app
-- real time pizza menu , reading from API
-- users can add multiple pizza to the shoping cart before order
-- users can mark the orders "priority" and make andd addition 20% of cart Prices
-- payments are made on delivery
-- users can the status of the order by using uniq ID
+- users don't need to log in; just input their names to use the app.
+- real-time pizza menu, reading from API
+- users can add multiple pizzas to the shopping cart before ordering
+- users can mark the orders as "priority" and add an additional 20% to cart prices.
+- Payments are made on delivery
+- Users can check the status of the order by using the unique ID.
 
 ## Tech
 - React Router
